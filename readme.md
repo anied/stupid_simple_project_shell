@@ -6,6 +6,7 @@ This repo is a quick and easy project shell to rapidly get an environment up and
 + Run `npm install` to install http-server.
 + Run `npm start`
 + Navigate to `localhost:8080` -- you should see "Hello world!"
+
 You now have a webserver up and running for your project.  The webserver is pointing at the `/src` directory.  SO- now its time to make it your own.  Update relevant information in package.json (but don't delete the current start script nor devDependencies unless you're sure you know what you're doing).  Delete or replace this readme.  And clear out index.html and start building your project in there.
 
 ##License
