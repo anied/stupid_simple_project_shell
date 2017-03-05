@@ -4,7 +4,7 @@
   "description": "Fastest way to get a locally hosted webserver up and running for development on a project.  Follow instructions in the readme.  Must have Node/NPM installed.",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node node_modules/.bin/http-server src"
+    "start": "node node_modules/http-server/bin/http-server src"
   },
   "keywords": [
     "prototype",
